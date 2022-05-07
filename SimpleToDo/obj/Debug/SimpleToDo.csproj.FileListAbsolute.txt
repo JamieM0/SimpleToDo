@@ -1,0 +1,11 @@
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\bin\Debug\SimpleToDo.exe.config
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\bin\Debug\SimpleToDo.exe
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\bin\Debug\SimpleToDo.pdb
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.csproj.AssemblyReference.cache
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.ToDo.resources
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.Properties.Resources.resources
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.csproj.GenerateResource.cache
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.exe
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.pdb
