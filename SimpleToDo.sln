@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToDo", "SimpleToDo\SimpleToDo.csproj", "{914FE059-7FE9-4A59-AA79-DA0F40E4D268}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D4099CEF-A43C-4AE6-BFDD-34AB439C5B9C}"
+	ProjectSection(SolutionItems) = preProject
+		Other\FormSerialisor_Class\FormSerialisor.cs = Other\FormSerialisor_Class\FormSerialisor.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

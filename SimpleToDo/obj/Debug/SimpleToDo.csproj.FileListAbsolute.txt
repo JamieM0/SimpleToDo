@@ -9,3 +9,4 @@ C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\Simpl
 C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.csproj.CoreCompileInputs.cache
 C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.exe
 C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.pdb
+C:\Users\Jamie\Documents\GitHub\SimpleToDo\SimpleToDo\SimpleToDo\obj\Debug\SimpleToDo.OpenAttempt.resources
