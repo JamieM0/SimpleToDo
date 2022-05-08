@@ -26,6 +26,7 @@ namespace SimpleToDo
             if (pnlItems1.Controls.OfType<CheckBox>().ToList().Count > 1 || cb1.Text != "Item1 will go here when inputted.")
             {
                 firstSet = true;
+                btnEnter.Enabled = false;
             }
         }
 
@@ -92,6 +93,7 @@ namespace SimpleToDo
             else
             {
                 MessageBox.Show("Too many items!");
+                tooManyItems = true;
             }
             checkbox.Size = new System.Drawing.Size(431, 37);
             checkbox.Name = "cb" + (count + 1);
